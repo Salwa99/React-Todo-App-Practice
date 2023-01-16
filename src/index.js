@@ -1,14 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import TodoContainer from "./components/TodoContainer";
-import "./App.css";
-import { BrowserRouter as Router} from "react-router-dom";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
+import TodoContainer from './components/TodoContainer';
+import './App.css';
 // eslint-disable-next-line
 ReactDOM.render(
-    <React.StrictMode>
+  <React.StrictMode>
     <Router>
-     <TodoContainer />
+      <TodoContainer />
     </Router>
-    </React.StrictMode>,
-    document.getElementById("root")
-  )
+  </React.StrictMode>,
+  document.getElementById('root'),
+);

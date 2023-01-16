@@ -3,7 +3,7 @@ import {
   Link, useNavigate, Route, Routes,
 } from 'react-router-dom';
 import SinglePage from './SinglePage';
-
+// eslint-disable-next-line
 const About = () => {
   const { url, path } = useNavigate();
   return (

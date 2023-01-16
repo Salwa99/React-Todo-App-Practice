@@ -1,8 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-
+// eslint-disable-next-line
 const SinglePage = () => {
-  console.log(useParams());
   const aboutData = [
     {
       slug: 'about-app',

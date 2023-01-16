@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { v4 as uuidv4 } from "uuid";
-import TodosList from "./TodosList";
-import Header from "./Header";
-import InputTodo from "./InputTodo";
-import Navbar from "./Navbar";
+import { v4 as uuidv4 } from 'uuid';
 import { Route, Routes } from 'react-router-dom';
-import About from "../pages/About";
-import NotMatch from "../pages/NotMatch";
+import TodosList from './TodosList';
+import Header from './Header';
+import InputTodo from './InputTodo';
+import Navbar from './Navbar';
+import About from '../pages/About';
+import NotMatch from '../pages/NotMatch';
 // eslint-disable-next-line
 const TodoContainer = () => {
   function getInitialTodos() {
@@ -77,12 +77,20 @@ const TodoContainer = () => {
     <>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={(
+        <Route
+          exact
+          path="/"
+          element={(
             <div className="container">
               <div className="inner">
                 <Header />
                 <InputTodo addTodoProps={addTodoItem} />
-                <TodosList todos={todos} handleChange={handleChange}delTodo={delTodo}  setUpdate={setUpdate}/>
+                <TodosList
+                  todos={todos}
+                  handleChange={handleChange}
+                  delTodo={delTodo}
+                  setUpdate={setUpdate}
+                />
               </div>
             </div>
           )}
@@ -95,4 +103,3 @@ const TodoContainer = () => {
 };
 
 export default TodoContainer;
-
