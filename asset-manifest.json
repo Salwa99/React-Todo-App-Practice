@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/salwa99.github.io/React-Todo-App-Practice/static/css/main.726a66bb.css",
-    "main.js": "/salwa99.github.io/React-Todo-App-Practice/static/js/main.1605cd52.js",
-    "index.html": "/salwa99.github.io/React-Todo-App-Practice/index.html",
-    "main.726a66bb.css.map": "/salwa99.github.io/React-Todo-App-Practice/static/css/main.726a66bb.css.map",
-    "main.1605cd52.js.map": "/salwa99.github.io/React-Todo-App-Practice/static/js/main.1605cd52.js.map"
+    "main.css": "/React-Todo-App-Practice/static/css/main.726a66bb.css",
+    "main.js": "/React-Todo-App-Practice/static/js/main.1605cd52.js",
+    "index.html": "/React-Todo-App-Practice/index.html",
+    "main.726a66bb.css.map": "/React-Todo-App-Practice/static/css/main.726a66bb.css.map",
+    "main.1605cd52.js.map": "/React-Todo-App-Practice/static/js/main.1605cd52.js.map"
   },
   "entrypoints": [
     "static/css/main.726a66bb.css",
