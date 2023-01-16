@@ -19,7 +19,7 @@ A web application that allows users to create and manage a list of tasks. Users 
 
 # 🚀 Live Demo <a name="live-demo"></a>
 
-[React Todo List App](salwa99.github.io/React-Todo-App-Practice)
+[React Todo List App](https://salwa99.github.io/React-Todo-App-Practice/)
 ### Server:
 - local.
 ### Database:
