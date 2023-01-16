@@ -19,7 +19,7 @@ A web application that allows users to create and manage a list of tasks. Users 
 
 # 🚀 Live Demo <a name="live-demo"></a>
 
-[Math Magician 📟 🪄](https://salwa99.github.io/Math-magician/)
+[React Todo List App](salwa99.github.io/React-Todo-App-Practice)
 ### Server:
 - local.
 ### Database:
@@ -33,7 +33,7 @@ A web application that allows users to create and manage a list of tasks. Users 
 - Installed Git.
 - Create a local directory that you want to clone the repository.
 - Open the command prompt in the created directory.
-- On the terminal run this command git clone https://github.com/Salwa99/Math-magician.git
+- On the terminal run this command git clone https://github.com/Salwa99/React-Todo-App-Practice.git
 - Install the dev dependencies for linters run npm install.
 
 # Prerequisites:
@@ -51,8 +51,8 @@ A web application that allows users to create and manage a list of tasks. Users 
 
 # Usage:
 ### To run the project, execute the following command:
-- git https://github.com/Salwa99/Math-magician.git
-- cd math-magician
+- git https://github.com/Salwa99/React-Todo-App-Practice.git
+- cd React-Todo-App-Practice
 - npm install
 - npm start
 
@@ -73,7 +73,6 @@ A web application that allows users to create and manage a list of tasks. Users 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/salwa-ballouti)
 
 # 🔭 Future Features:
-- Use advanced JS data structures.
 - Implement some awesome animations and transitions to the design.
 - Integrate back-end.
 
